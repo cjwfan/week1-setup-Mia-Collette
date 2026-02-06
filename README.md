@@ -12,3 +12,10 @@ $ git config --global user.name
 Mia C
 $ git config --global user.email
 mcollette101@gmail.com
+
+## Extensions Installed
+Better Comments
+GitHub Copilot Chat
+GitHub Theme
+Live Server (Fiver Server)
+Prettier - Code formatter
